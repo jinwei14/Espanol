@@ -35,13 +35,13 @@ You -> tú(informal)/usted(formal)
 he - él  
 She-> ella  
 They->     
- <img src="assets/gender.PNG" width="350" height="250" title="gender"> 
+ <img src="./assets/gender.PNG" width="350" height="250" title="gender"> 
 
 casa bonita -> casas bonitas -> pretty houses      
 año pasado -> años pasados -> last year    
 hombre trabajador -> hombres trabajadores-> hard working man    
 mujer trabajadora -> mujeres trabajadoras -> hard working woman     
- <img src="assets/genderDef.PNG" width="350" height="200" title="gender">    
+ <img src="./assets/genderDef.PNG" width="350" height="200" title="gender">    
 
  la casa bonita -> las casas bonitas -> the preety house     
  el año pasado -> los años pasados -> last year    
