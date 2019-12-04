@@ -2,6 +2,39 @@
 
 Hola, me llamo Jinwei. Tengo 23 años. Recientemente me gradué del Imperial College de Londres. Ahora soy un profesional que trabaja para el banco de inversión. Comencé a aprender español después del final de mi universidad. Al principio, aprendo español solo porque quiero elegir un idioma ampliamente hablado para aprender. A medida que aumenta el tiempo de estudio, la historia de España y las personas me parecen muy interesantes. Espero seguir aprendiendo este idioma como mi hobbit personal. Gracias.
     
+
+## Greeting：
+
+Hola	Hello  
+Buenos días	Good morning  
+Buenas tardes	Good afternoon  
+Buenas noches	Good night  
+ 	 
+Adiós	Goodbye  
+Hasta luego	Until the next time  
+Hasta la vista	Until the next time we see each other  
+ 	 
+Por favor	Please  
+Gracias	Thanks  
+De nada	You're welcome  
+Con permiso	Excuse me (coming through)  
+Disculpe	Excuse me (I'm sorry)  
+Disculpa	Excuse me (I'm sorry)  
+Perdón	Excuse me (I'm sorry)  
+ 	 
+Felicidades	Congratulations  
+Buena suerte	Good luck  
+ 	 
+Señor	Mr.  
+Señora	Mrs.  
+Señorita	Ms.  
+ 
+¿Cómo estás?	How are you?  
+¿Cómo está usted?	How are you? (formal)  
+¿Qué tal?	How are you?   
+  bien	   good  
+  mal	   bad   
+
 ## Espanol：
 
 -  el niño 男孩
