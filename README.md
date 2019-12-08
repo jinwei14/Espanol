@@ -1,4 +1,4 @@
-# Espanol
+# Espanol introduction
 
 Hola, me llamo Jinwei. Tengo 23 años. Recientemente me gradué del Imperial College de Londres. Ahora soy un profesional que trabaja para el banco de inversión. Comencé a aprender español después del final de mi universidad. Al principio, aprendo español solo porque quiero elegir un idioma ampliamente hablado para aprender. A medida que aumenta el tiempo de estudio, la historia de España y las personas me parecen muy interesantes. Espero seguir aprendiendo este idioma como mi hobbit personal. Gracias.
     
@@ -42,7 +42,7 @@ Señorita	Ms.
   bien	   good  
   mal	   bad   
 
-## Espanol：
+## Espanol words：
 
 -  el niño 男孩
 -  La niña (the girl)
@@ -51,6 +51,8 @@ Señorita	Ms.
 - Yo soy un niño (I am a boy)
 - ¡vamos a ello (go for it)
 - manzana (apple)
+- la leche (milk)
+- el agua (water)
 
 Non ended with -o masculine
 Non ended with -a/-dad/-ción feminine 
@@ -123,7 +125,10 @@ Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
 ¡Ya saben los números!
 
 
- ## Phrases:
+ **Perspectivas Introduction**
+
+
+ ## tests:
  Soy un hombre sincero -> I am a sincere man     
  Eres una mujer única y especial -> you are unique and special woman      
  La hija es muy inteligente.    -> my daughter is very intelligent    
@@ -137,125 +142,65 @@ Las amigas son importantes. Las_/amigo/ser/importante.
 How would you conjugate the verb estudiar in the following sentence?
 
 Yo ______estudio_______ español con un profesor de Colombia.
-estudias
-estudia
-estudio
-estudian
+estudias,estudia,estudio,estudian
 
 2.Question 2
 How would you conjugate the verb llamar in the following sentence?
 
 Nosotros ______llamamos_______ con teléfono todas las noches.
-llamamos
-llama
-llamo
-llaman
+llamamos,llama,llamo,llaman
 
 3.Question 3
 How would you conjugate the verb pasar in the following sentence?
-
 ¿ _________Pasa____ usted mucho tiempo en familia?
-
-
-Pasas
-Pasamos
-Paso
-Pasa
-Incorrect
-0 / 1 point
+Pasas,Pasamos,Paso,Pasa
 
 4.Question 4
 How would you conjugate the verb preguntar in the following sentence?
-
 Los estudiantes _____________ por la gramática.
-preguntamos
-pregunto
-preguntan
-preguntas
-Incorrect
-0 / 1 point
+preguntamos,pregunto,preguntan,preguntas,Incorrect
 
 5.Question 5
 How would you conjugate the verb ser in the following sentence?
-
 Ustedes _____son________ colombianos, ¿no?
-
-somos
-es
-eres
-son
-Correct
-1 / 1 point
+somos,es,eres,son,Correct
 
 6.Question 6
 How would you conjugate the verb tener in the following sentence?
-
 Vosotros _____tenéis________ una familia muy educada.
-tengo
-tienes
-tienen
-tenéis
-
-Correct
-1 / 1 point
+tengo,tienes,tienen,tenéis
 
 7.Question 7
 How would you conjugate the verb ser in the following sentence?
-
 Robert y Elena ______son_______ hermanos.
-soy
-eres
-somos
-son
-Correct
-1 / 1 point
+soy,eres,somos,son
 
 8.Question 8
 How would you conjugate the verb tener in the following sentence?
-
 Yo ______tengo_______ una relación muy buena con mis abuelos.
-tengo
-tenemos
-tienes
-tienen
-
-Correct
-1 / 1 point
+tengo,tenemos,tienes,tienen
 
 9.Question 9
 Cuatro + Tres = siete
-doce
-cinco
-uno
-siete
-Correct
-1 / 1 point
+doce,cinco,uno,siete
 
 10.Question 10
 Ocho = cinco + tres
 
-seis + uno
-cuatro + seis
-cuatro + siete
-cinco + tres
+seis + uno,cuatro + seis,cuatro + siete,cinco + tres
 
-Correct
-1 / 1 point
 
 11.Question 11
 Lulu tiene dos años. Jorge tiene siete. Jorge es mayor.
-Jorge es menor.
-Tienen la misma edad.
-Lulu es mayor.
-Jorge es mayor.
-Incorrect
-0 / 1 point
+Jorge es menor,Tienen la misma edad,Lulu es mayor,Jorge es mayor.
 
 12.Question 12
 Rafael tiene 22 años. Gabriela tiene 22 años. Tienen la misma edad.
-Gabriela es mayor.
-Rafael es menor.
-Rafael es mayor.
-Tienen la misma edad.
-Correct
-1 / 1 point
+Gabriela es mayor.Rafael es menor.Rafael es mayor.Tienen la misma edad.
+
+¿De dónde es Lina?
+¿Tiene Lina una familia grande o pequeña?
+
+
+
+Although she was born in Colombia, and still has family there, she lives in California with her husband, and her daughter, Lucille, but Lulu, for short. Lulu looks a lot like her father, with blond hair and blue eyes. Her parents still live in Colombia, along with her older brother and sister. Lina is happy with her small family for now, [SOUND] probably it won’t grow too much bigger. Now that you know the basics of what she said, go ahead and watch Lina’s video again and see if you can pick out more of what she said, and then go ahead and complete the comprehension quiz. 
