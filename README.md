@@ -21,14 +21,17 @@ Adiós	Goodbye
 Hasta luego	Until the next time  
 Hasta la vista	Until the next time we see each other  
  	 
+Mucho gusto. Nice to meet you.    
 Por favor	Please  
+Sí  yes.
 Gracias	Thanks  
 De nada	You're welcome  
 Con permiso	Excuse me (coming through)  
 Disculpe	Excuse me (I'm sorry)  
 Disculpa	Excuse me (I'm sorry)  
 Perdón	Excuse me (I'm sorry)  
- 	 
+Lo siento   I am sorry
+
 Felicidades	Congratulations  
 Buena suerte	Good luck  
  	 
@@ -39,8 +42,8 @@ Señorita	Ms.
 ¿Cómo estás?	How are you?  
 ¿Cómo está usted?	How are you? (formal)  
 ¿Qué tal?	How are you?   
-  bien	   good  
-  mal	   bad   
+bien	   good  
+mal	   bad   
 
 ## Espanol words：
 
@@ -53,6 +56,14 @@ Señorita	Ms.
 - manzana (apple)
 - la leche (milk)
 - el agua (water)
+- el pan (bread)
+- bebe (drink)
+- inglés (english)
+- hablas (speak)
+- español(Spanish)
+- muchos (many)
+- amigos (friend)
+
 
 Non ended with -o masculine
 Non ended with -a/-dad/-ción feminine 
@@ -95,7 +106,7 @@ mujer trabajadora -> mujeres trabajadoras -> hard working woman
  el año pasado -> los años pasados -> last year    
  una hombre trabajador -> unas hombres trabajadores-> a/some hard working man/men
 
- **Linking none with other expression**    
+ **(ser/ tobe)Linking none with other expression**    
  <img src="./assets/LinkingNouns.png" width="350" height="200" title="gender">    .       
  Usted and Ustedes go with the third person of verb    
  Usted es un hombre -> you are a man    
@@ -204,3 +215,8 @@ Gabriela es mayor.Rafael es menor.Rafael es mayor.Tienen la misma edad.
 
 
 Although she was born in Colombia, and still has family there, she lives in California with her husband, and her daughter, Lucille, but Lulu, for short. Lulu looks a lot like her father, with blond hair and blue eyes. Her parents still live in Colombia, along with her older brother and sister. Lina is happy with her small family for now, [SOUND] probably it won’t grow too much bigger. Now that you know the basics of what she said, go ahead and watch Lina’s video again and see if you can pick out more of what she said, and then go ahead and complete the comprehension quiz. 
+
+Ella ______tienes_______ muchos amigos.
+La madre buena ---> __ ________ ____________?
+José es trabajador. Él es padre. Tiene dos hijos, Ana y Marcos. ¿Cuántos hijos tiene José?
+_______ son inteligentes.
