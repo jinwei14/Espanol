@@ -10,7 +10,7 @@ Hola! Me llamo Yolanda. Yo soy profesora de universidad. Yo tengo una familia gr
 
 Mi esposo es un hombre muy trabajador. La educación tiene mucha importancia porque mis padres son profesores de las ciencias. Mi esposo también trabaja (´works´) en la universidad. Nosotros pasamos todo el día en la clase. Mi madre siempre me dice “Con educación, hija, tú tienes un futuro brillante.
 
-## Greeting：
+# Greeting：
 
 Hola	Hello  
 Buenos días	Good morning  
@@ -45,7 +45,7 @@ Señorita	Ms.
 bien	   good  
 mal	   bad   
 
-## Espanol words：
+# Espanol words：
 
 -  el niño 男孩
 -  La niña (the girl)
@@ -70,8 +70,81 @@ Non ended with -a/-dad/-ción feminine
 Non ended with -e depends 
 -s -es plural.
 
+SUSTANTIVOS (nouns)  
+Mano (f): hand(s)  
+Agua (f): water  
+Ojo (m): eye  
+Cuerpo (m): body  
+Voz (f): voice  
+Cabeza (f): head  
+Color (m): color  
+Información (f): information  
+Imagen (f): image  
+Estilo (m): style, design  
+Figura (f): figure, shape  
+Cabello/pelo (m): hair  
+Cara (f): face  
+Calor (m): heat  
+Frío (m): cold  
+Sed (f): thirst  
+Hambre (f): hunger  
+Miedo (m): fear  
+Dolor (m): pain  
+Tos (f): cough  
+Deporte (m): sport  
+Dieta (f): diet  
+Médico (m/f): doctor  
+Medicina (f)/medicamento (m): medicine, drugs  
+VERBOS  
+Estar: to be  
+Tener: to have  
+Hacer: to do/to make  
+Cumplir: to comply, to fulfill, to perform  
+Usar: to use  
+Llevar: to carry, to transport  
+Llorar: to cry, to weep  
+Ser: to be  
+Deber: must  
+Poder: to be able to  
+Necesitar: to need to  
+Comer: to eat  
+Beber: to drink  
+Correr: to run  
+Recibir: to receive  
+Escribir: to write  
+Contagiar: to infect  
+Esperar: to hope for, to expect, to wait  
+Sudar: to sweat  
+Tomar: to drink, to take  
 
-## Sound：
+
+ADJETIVOS (adjectives)  
+Bien≠ mal/regular: (to be) good/bad or sick  
+Regular: (to be) so so, just ok, not so good  
+Pequeño/a: small, little  
+Grande: great  
+Bajo: short (height)  
+Alto: tall  
+Largo: long  
+Corto/a: short (length)
+Fuerte: strong  
+Débil: weak  
+Joven: young  
+Viejo: old  
+Rubio ≠ moreno: blonde ≠ brown-haired  
+Rápido ≠ despacio: quickly ≠ slowly  
+Enfermo: sick  
+Resfriado: sick with a cold (not with the flu = la gripe)  
+Molesto: annoyed, uncomfortable  
+Irritado: irritated  
+EXPRESIONES (expressions)  
+Cómo: how  
+Porque: because  
+Ahora: now  
+Después: after  
+
+
+# Sound：
 ll -> sounds like y . ->Me llamo Roberto->My name is Roberto   
 v -> souns like b. ->vamos a ver ->we'll see   
 j/g + i/e sounds like h(he).-> Jorge es gigante->Jorge is giant   
@@ -85,7 +158,9 @@ r vs rr caro (expensive) vs carro  (car)
 pero (but) perro(dog)
 para(to/for) parra (grap vine)
 
-## Subject:
+# Grammar
+
+**Subject:**
 I -> yo.   
 We -> nosotros (men)/ nosotras (women)  
 You -> tú(informal)/usted(formal)  
@@ -99,7 +174,7 @@ año pasado -> años pasados -> last year
 hombre trabajador -> hombres trabajadores-> hard working man    
 mujer trabajadora -> mujeres trabajadoras -> hard working woman    
 
- **Gender**   
+ **Gender the/a**   
  <img src="./assets/genderDef.png" width="350" height="200" title="gender">    
 
  la casa bonita -> las casas bonitas -> the preety house     
@@ -139,7 +214,7 @@ Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
  **Perspectivas Introduction**
 
 
- ## tests:
+ # tests:
  Soy un hombre sincero -> I am a sincere man     
  Eres una mujer única y especial -> you are unique and special woman      
  La hija es muy inteligente.    -> my daughter is very intelligent    
