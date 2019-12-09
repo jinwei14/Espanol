@@ -296,7 +296,7 @@ La madre buena ---> __ ________ ____________?
 José es trabajador. Él es padre. Tiene dos hijos, Ana y Marcos. ¿Cuántos hijos tiene José?
 _______ son inteligentes.
 
-Usted hace su trabajo bien.
-Rosana y Arón cumplen (fulfill) sus tareas (chores).
-Nosotros llevamos a los trabajadores a su trabajo.
+Usted hace su trabajo bien.  
+Rosana y Arón cumplen (fulfill) sus tareas (chores).    
+Nosotros llevamos a los trabajadores a su trabajo.    
 Ustedes deben hablar con su familia.
