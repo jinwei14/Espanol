@@ -213,6 +213,18 @@ Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
 
  **Perspectivas Introduction**
 
+**Estar**   
+  <img src="./assets/Estar.png" width="350" height="280" title="gender">    .    
+  Yo estoy. Tú estás. Él está. Ella está. Usted está. Nosotros estamos. Vosotros estáis. Ellos están. Ustedes están.   
+  Estoy regular. I'm feeling just so-so.    
+  Estoy molesto por la comida picante. I don't feel so good because of the spicy food.     
+  ¿Estás resfriado? Do you have a cold?     
+  ¿Está usted enfermo? Are you sick? Using the formal form.     
+  Mi compañera del piso está enferma. My roommate has a cold.     
+  Los ojos están irritados. My eyes are irritated.     
+  ¿Chicos, estáis contentos? Are y'all happy?     
+  Remember that usted/ustedes is the formal 2nd-person subject pronoun.
+
 
  # tests:
  Soy un hombre sincero -> I am a sincere man     
