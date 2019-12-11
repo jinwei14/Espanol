@@ -225,8 +225,25 @@ Uno, dos, tres, cuatro, cinco, seis, siete, ocho, nueve, diez.
   ¿Chicos, estáis contentos? Are y'all happy?     
   Remember that usted/ustedes is the formal 2nd-person subject pronoun.
 
-  ??
+**Tengo**
+Tengo frío I am cold  
+Tengo calor I am hot   
+¿Tienes hambre? Are you hungary ?   
+¿Tienes sed? Are you thirsty?   
+Tiene fiebre He has fever.    
+Tenemos tos  we have a cough    
+Tienen dolor They are sore    
 
+**-AR, -ER, -IR Regular Verbs**    
+  <img src="./assets/ERIR.png" width="350" height="280" title="gender">    .      
+So let's review and take a look at the -AR verbs, with a verb such as preguntar to ask a question.     
+Yo pregunto. Tú preguntas. Él pregunta. Nosotros preguntamos Vosotros preguntáis. Ellos preguntan   
+
+
+Now let's look at an -ER and an -IR verb.     
+An -ER Verb could be like the one, comer, to eat.    
+And an -IR verb could be like vivir, to live.    
+Yo como. Yo vivo. Tú comes. Tú vives. Él come. Él vive. Nosotros comemos. Nosotros vivimos. Vosotros coméis. Vosotros vivís. Ellos comen. Ellos viven.
 
  # tests:
  Soy un hombre sincero -> I am a sincere man     
