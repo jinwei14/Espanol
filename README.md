@@ -243,7 +243,86 @@ Yo pregunto. Tú preguntas. Él pregunta. Nosotros preguntamos Vosotros pregunt�
 Now let's look at an -ER and an -IR verb.     
 An -ER Verb could be like the one, comer, to eat.    
 And an -IR verb could be like vivir, to live.    
-Yo como. Yo vivo. Tú comes. Tú vives. Él come. Él vive. Nosotros comemos. Nosotros vivimos. Vosotros coméis. Vosotros vivís. Ellos comen. Ellos viven.
+Yo como. Yo vivo. Tú comes. Tú vives. Él come. Él vive. Nosotros comemos. Nosotros vivimos. Vosotros coméis. Vosotros vivís. Ellos comen. Ellos viven.    
+
+
+Como pan todos los días. I eat bread everyday.    
+¿Comes pan con la comida? Do you eat bread with your food?    
+Usted come mucho pan. You eat a lot of bread.    
+Comemos mucho durante el dia. We eat a lot during the day.    
+Ellos no comen nada. They hardly eat anything at all. Vivo en Davis.    
+I live in Davis. ¿Vives en Davis? Do you live in Davis?     
+Mi madre vive en Davis. My mother lives in Davis.    
+Vivimos en California. We live in California.     
+¿Vivís en California? Do you all live in California?    
+Viven en California. They live in California    
+
+# Number
+
+
+1 - uno
+2 - dos
+3 - tres
+4 - cuatro
+5 - cinco
+6 - seis
+7 - siete
+8 - ocho
+9 - nueve
+10 - diez
+11 - once
+12 - doce
+13 - trece
+14 - catorce
+15 - quince
+16 - dieciséis
+17 - diecisiete
+18 - dieciocho
+19 - diecinueve
+20 - veinte
+21 - veintiuno
+22 - veintidós
+23 - veintitrés
+24 - veinticuatro
+25 - veinticinco
+26 - veintiséis
+27 - veintisiete
+28 - veintiocho
+29 - veintinueve
+30 - treinta
+31 - treinta y uno
+32 - treinta y dos
+33 - treinta y tres
+40 - cuarenta
+41 - cuarenta y uno
+42 - cuarenta y dos
+50 - cincuenta
+60 - sesenta
+70 - setenta
+80 - ochenta
+90 - noventa
+100 - cien
+101 - ciento uno
+102 - ciento dos
+110 - ciento diez
+111 - ciento once
+200 - doscientos
+201 - doscientos uno
+202 - doscientos dos
+211 - doscientos once
+276 - doscientos setenta y seis
+300 - trescientos
+400 - cuatrocientos
+500 - quinientos
+600 - seiscientos
+700 - setecientos
+800 - ochocientos
+900 - novecientos
+1.000 - mil
+1.011 - mil once
+1.111 - mil ciento once
+2.000 - dos mil
+3.000.003 - tres millones tres
 
  # tests:
  Soy un hombre sincero -> I am a sincere man     
