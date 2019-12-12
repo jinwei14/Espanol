@@ -250,8 +250,9 @@ Como pan todos los días. I eat bread everyday.
 ¿Comes pan con la comida? Do you eat bread with your food?    
 Usted come mucho pan. You eat a lot of bread.    
 Comemos mucho durante el dia. We eat a lot during the day.    
-Ellos no comen nada. They hardly eat anything at all. Vivo en Davis.    
-I live in Davis. ¿Vives en Davis? Do you live in Davis?     
+Ellos no comen nada. They hardly eat anything at all. 
+Vivo en Davis.  I live in Davis.     
+¿Vives en Davis? Do you live in Davis?     
 Mi madre vive en Davis. My mother lives in Davis.    
 Vivimos en California. We live in California.     
 ¿Vivís en California? Do you all live in California?    
@@ -410,3 +411,264 @@ Usted hace su trabajo bien.
 Rosana y Arón cumplen (fulfill) sus tareas (chores).    
 Nosotros llevamos a los trabajadores a su trabajo.    
 Ustedes deben hablar con su familia.
+
+Week2:
+
+
+Yo ____cumplo___ con las instrucciones del médico.
+
+
+cumplo
+
+
+cumples
+
+
+cumplimos
+
+
+cumplen
+
+1 point
+
+2.Question 2
+How would you conjugate the verb comer in the following sentence?
+
+Amiga mia, ¿___Comes____ de una forma saludable?
+
+
+Come
+
+
+Como
+
+
+Comen
+
+
+Comes
+
+1 point
+
+3.Question 3 ！！！！！！！！！
+How would you conjugate the verb deber in the following sentence?
+
+Ustedes ____deben___ tomar la medicina todos los días.
+
+
+debemos
+
+
+deben
+
+
+debes
+
+
+debo
+
+1 point
+
+4.Question 4
+How would you conjugate the verb correr in the following sentence?
+
+Los estudiantes ___corren____ mucho para el primer día de clase.
+
+
+corre
+
+
+corren
+
+
+corro
+
+
+corres
+
+1 point
+
+5.Question 5 ！！！！！！
+How would you conjugate the verb escribir in the following sentence?
+
+Ustedes _______ la tarea por computadora.
+
+
+escriben
+
+
+escribimos
+
+
+escribe
+
+
+escribo
+
+1 point
+
+6.Question 6
+How would you conjugate the verb beber in the following sentence?
+
+¿Y vosotros? ¿___Bebéis____ mucha agua?
+
+
+Bebemos
+
+
+Bebo
+
+
+Bebéis
+
+
+Beben
+
+1 point
+
+7.Question 7
+How would you conjugate the verb necesitar in the following sentence?
+
+Mi padre ___necesita____ tener cuidado con la salud.
+
+
+necesitan
+
+
+necesitamos
+
+
+necesito
+
+
+necesita
+
+1 point
+
+8.Question 8
+How would you conjugate the verb tener in the following sentence?
+
+Yo creo que ___tengo____ gripa con fiebre y todo.
+
+
+tenemos
+
+
+tengo
+
+
+tiene
+
+
+tienes
+
+1 point
+
+9.Question 9
+How would you conjugate the verb llevar in the following sentence?
+
+Nosotros ____llevamos___ a nuestro compañero al hospital.
+
+
+lleva
+
+
+llevamos
+
+
+llevan
+
+
+llevas
+
+1 point
+
+10.Question 10
+42 + 34 = setenta y seis
+
+
+setenta y seis
+
+
+setenta y siete
+
+
+ochenta y cinco
+
+
+sesenta y seis
+
+1 point
+
+11.Question 11
+No todo el mundo tiene cabello
+
+
+cabeza
+
+
+cara
+
+
+cabello
+
+
+cuerpo
+
+1 point
+
+12.Question 12 ！！！！！！！
+Rafael no sale de su casa. No come en restaurantes. No toca nada en público. Tiene miedo  
+
+
+Tiene gripe
+
+
+Tiene miedo
+
+
+Tiene frío
+
+
+Tiene calor
+
+1 point
+
+
+Yo_/correr/para_/mantener/el/forma. Yo corro para mantener la forma.    
+
+
+Miguel_/beber/un/taza_/de café_/por la mañana_.  Miguel bebe una taza de café por la mañana.   
+
+Jorge y Rosa_/recibir/medicina_/de/su/médico_.Jorge y Rosa reciben medicina de su médico.   
+
+Nosotros_/escribir/un/tarjeta_/a Juan_. Nosotros escribimos una tarjeta a Juan.   
+
+Hoy yo _______ regular. Los ojos _______ y tengo muchos ________ por todo el cuerpo. Necesito tomar_________ y por eso tengo una visita con el __________ en una hora. En general, estoy muy _________. Por la noche ___________ mucho pero tengo ________ todo el tiempo y tengo una _______ horrible. Creo que estoy enfermo por el contacto con los amigos que están muy _________ . La comida me parece horrible ahora y no _______ nada--ni pan--porque no ________hambre.
+
+Word List:
+frío
+estoy
+resfriados
+dolores
+lloran
+molesto
+tengo
+médico
+sudo ('sweat')
+tos
+como
+medicina
+
+Hoy yo estoy regular. Los ojos lloran y tengo muchos dolores por todo el cuerpo. Necesito tomar medicina y por eso tengo una visita con el médico en una hora. En general, estoy muy molesto. Por la noche sudo mucho pero tengo frío todo el tiempo y tengo una tos horrible. Creo que estoy enfermo por el contacto con los amigos que están muy resfriados . La comida me parece horrible ahora y no como nada--ni pan--porque no tengo hambre.
+
+Juan is having a tough day.    
+He has a nasty cold coming on.    
+He feels cold,    
+his eyes are irritated and watering.   
+He probably has a fever and,    
+in general, he just feels uncomfortable and annoyed.    
+He's going to see the doctor within the hour and expects that he'll get some medicine.    
+He hopes it's not the flu, la gripe.     
+He's probably picked up a viral infection from his roommate who likes to get a lot of hugs.      
+In other words, está contagiado por ella. He's been infected by her.    
